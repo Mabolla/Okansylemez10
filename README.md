@@ -1,37 +1,24 @@
-# 👋 Hi there, I'm Okan
+# 👋 Hi, I'm Mabolla
 
-💻 **Blockchain & Python Developer**  
-⚡ Building tools on Ethereum & Base Network  
-🌱 Currently working on: `wallet-balance-cli`
+### 🚀 Blockchain & Python Developer
+
+- 👨‍💻 Working on: wallet-balance-cli & open source Web3 tools  
+- 🌱 Learning: Smart Contracts, Layer 2 (Base, Arbitrum, Optimism), Python Automation  
+- 🤝 Open to collaborate on crypto & developer tools  
+- 📫 Reach me via GitHub Issues or Discussions
+
+---
+
+### 📊 GitHub Stats
+
+![Mabolla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mabolla&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabolla&layout=compact)
 
 ---
 
-### 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okansylemez10&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okansylemez10&layout=compact&theme=transparent)
-
----
 ### 🌍 Visitor Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Okansylemez10&color=grey)
-
-
-
-### 🚀 **Featured Projects**
-
-- 🔹 [wallet-balance-cli](https://github.com/Mabolla/wallet-balance-cli)
-- 🔹 (Forked, geliştirme yapıyorum)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Mabolla&color=grey)
 
 ---
 
-### 🌐 **Contact & Links**
-
-- Twitter: @  
-- Email:  
-- Website / Portfolio: (Varsa)
-
----
-
-⭐ *If you like my work, don't forget to star my repositories!*
